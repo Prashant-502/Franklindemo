@@ -246,7 +246,7 @@ main .section {
   .carousel-container{
     padding: 64px 0;
   }
-  .carousel-wrapper{
+  .section .carousel-wrapper{
     max-width: fit-content;
   }
 }
