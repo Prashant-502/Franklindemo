@@ -244,7 +244,7 @@ main .section {
     margin: auto;
   }
   .section.carousel-container{
-    padding: 64px 0;
+    padding: 20px 0;
   }
   .carousel img{
     height: 450px;
