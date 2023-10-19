@@ -246,12 +246,10 @@ main .section {
   .section.carousel-container{
     padding: 64px 0;
   }
-  .section .carousel-wrapper{
-    max-width: fit-content;
-  }
   .carousel img{
     height: 450px;
     width: 100%;
+    border-radius: 30px;
   }
 }
 
