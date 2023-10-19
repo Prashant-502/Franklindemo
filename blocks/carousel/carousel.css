@@ -107,3 +107,6 @@ main .carousel-wrapper .carousel-buttons {
   text-align: unset;
   display: unset;
 }
+main .carousel-buttons button {
+  background-image: url('D:\Franklin-demo\Franklindemo\icons\right-arrow.png');
+}
