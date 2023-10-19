@@ -247,8 +247,6 @@ main .section {
     padding: 20px 0;
   }
   .carousel img{
-    height: 450px;
-    width: 100%;
     border-radius: 30px;
   }
 }
