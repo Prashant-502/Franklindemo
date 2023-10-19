@@ -98,4 +98,5 @@ main .carousel div.carousel-text {
   margin: 20px auto;
   background-color: white;
   padding: 20px 28px;
+  min-height: unset;
 }
