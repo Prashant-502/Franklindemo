@@ -249,6 +249,10 @@ main .section {
   .section .carousel-wrapper{
     max-width: fit-content;
   }
+  .carousel img{
+    height: 450px;
+    width: 100%;
+  }
 }
 
 /* section metadata */
