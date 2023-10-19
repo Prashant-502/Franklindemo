@@ -100,3 +100,8 @@ main .carousel div.carousel-text {
   padding: 20px 28px;
   min-height: unset;
 }
+main .carousel-wrapper .carousel-buttons {
+  position: absolute;
+  left: 4%;
+  bottom: 20%;
+}
