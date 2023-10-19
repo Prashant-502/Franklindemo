@@ -243,6 +243,12 @@ main .section {
     max-width: 1200px;
     margin: auto;
   }
+  .carousel-container{
+    padding: 64px 0;
+  }
+  .carousel-wrapper{
+    max-width: fit-content;
+  }
 }
 
 /* section metadata */
@@ -250,9 +256,3 @@ main .section.highlight {
   background-color: var(--highlight-background-color);
 }
 
-.carousel-container{
-  padding: 64px 0;
-}
-.carousel-wrapper{
-  max-width: fit-content;
-}
