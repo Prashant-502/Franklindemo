@@ -108,5 +108,5 @@ main .carousel-wrapper .carousel-buttons {
   display: unset;
 }
 main .carousel-buttons button {
-  background-image: url('D:\Franklin-demo\Franklindemo\icons\right-arrow.png');
+  background-image: url('/icons/right-arrow.png');
 }
