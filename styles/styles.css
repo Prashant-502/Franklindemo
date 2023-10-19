@@ -239,15 +239,15 @@ main .section {
 }
 
 @media (min-width: 900px) {
+  .carousel-wrapper{
+    max-width: fit-content;
+  }
   .section > div {
     max-width: 1200px;
     margin: auto;
   }
   .carousel-container{
     padding: 64px 0;
-  }
-  .carousel-wrapper{
-    max-width: fit-content;
   }
 }
 
