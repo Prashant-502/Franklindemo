@@ -92,3 +92,10 @@ main .carousel-buttons button {
 main .carousel-buttons button.selected {
   background-color: var(--link-color);
 }
+
+main .carousel div.carousel-text {
+  max-width: 1200px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px 28px;
+}
