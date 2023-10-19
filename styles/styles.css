@@ -249,3 +249,10 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+.carousel-container{
+  padding: 64px 0;
+}
+.carousel-wrapper{
+  max-width: fit-content;
+}
