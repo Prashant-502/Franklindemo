@@ -101,7 +101,9 @@ main .carousel div.carousel-text {
   min-height: unset;
 }
 main .carousel-wrapper .carousel-buttons {
-  position: absolute;
   left: 4%;
   bottom: 20%;
+  right: unset;
+  text-align: unset;
+  display: unset;
 }
